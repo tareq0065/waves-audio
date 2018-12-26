@@ -11,7 +11,7 @@
 #### Install
 
 ```sh
-npm install --save github:wavesjs/waves-audio
+npm install --save github:tareq0065/waves-audio
 ```
 
 #### import
